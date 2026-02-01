@@ -25,6 +25,3 @@ A real-world automated test project showcasing my ability to design and structur
 # What I’m Working Toward
 Continuing to grow as a QA / automation developer by building realistic test projects and applying testing best practices used in production environments.
 
----
-📫 GitHub: @YOUR_USERNAME  
-(LinkedIn / portfolio site coming soon)
