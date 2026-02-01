@@ -1,4 +1,4 @@
-Hi, I'm Quinton
+# Hi, I'm Quinton
 
 I’m a QA-focused developer with close to a year of hands on experience building automated tests inside of Playwright using Javascript.
 
