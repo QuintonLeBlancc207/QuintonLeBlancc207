@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi, I'm Quinton
 
-<!--
-**QuintonLeBlancc207/QuintonLeBlancc207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a QA-focused developer with close to a year of hands on experience building automated tests inside of Playwright using Javascript.
 
-Here are some ideas to get you started:
+The main things I focus on are writing clean, reliable tests that reflect how real users and real businesses actually use software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# What I do
+- End-to-end test automation with Playwright
+- JavaScript-based test development
+- UI validation & workflow testing
+- Writing maintainable, readable test suites
+
+# Featured Project
+## Playwright Automation Portfolio  
+A real-world automated test project showcasing my ability to design and structure Playwright test suites.
+
+→ **View Repo:** https://github.com/YOUR_USERNAME/playwright-automation-portfolio
+
+# Tech Stack
+- Playwright
+- JavaScript
+- Node.js
+- GitHub
+
+# What I’m Working Toward
+Continuing to grow as a QA / automation developer by building realistic test projects and applying testing best practices used in production environments.
+
+---
+📫 GitHub: @YOUR_USERNAME  
+(LinkedIn / portfolio site coming soon)
