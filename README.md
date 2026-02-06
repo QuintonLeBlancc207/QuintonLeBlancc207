@@ -14,7 +14,7 @@ The main things I focus on are writing clean, reliable tests that reflect how re
 ## Playwright Automation Portfolio  
 A real-world automated test project showcasing my ability to design and structure Playwright test suites.
 
-→ **View Repo:** https://github.com/YOUR_USERNAME/playwright-automation-portfolio
+→ **View Repo:** https://github.com/QuintonLeBlancc207/playwright-automation-portfolio
 
 # Tech Stack
 - Playwright
